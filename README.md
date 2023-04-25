@@ -1,3 +1,3 @@
 # SQL_challenge
 
-Free Diagram - QuickDBD
+Editing SQL_challenge/README.md at main · yamilethcova/SQL_challenge
