@@ -1,2 +1,2 @@
 # SQL_challenge
-
+This data analysis project involves querying an employee database with multiple tables. The goal is to retrieve specific information based on the provided requirements. The project includes tasks such as listing employee details, filtering data based on conditions, performing joins between tables, and calculating frequency counts. The analysis is performed using SQL queries to interact with the database and obtain the desired information.
